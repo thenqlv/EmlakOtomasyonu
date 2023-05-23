@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="BodyPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="EditUserInformationsPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="HouseAbstractPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="HouseAbstractParentPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="HousePanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="InformationPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="LoginPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="OptionsPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
